@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(167, 9, 9);
+    font-size: 70px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#pp {
+    color: rgb(239, 255, 239);
+    background-color: rgb(0, 67, 0);
+}
+
+#t {
+    color: beige;
+    background-color: rgb(94, 28, 28);
+
+}
